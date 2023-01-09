@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Popup camera settings -->
+    <string name="popup_title">Efecte cameră frontală</string>
+    <string name="popup_led_title">Efecte vizuale</string>
+    <string name="popup_led_summary">Activare LED la ridicare și coborâre cameră</string>
+    <string name="popup_sound_title">Efecte sonore</string>
+    <string name="popup_sound_muqin">Xilofon</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">Magic</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Angrenaj</string>
+    <string name="popup_sound_cangmen">Ușă</string>
+    <string name="popup_calibration_title">Calibrare</string>
+    <string name="popup_calibration_summary">Calibrare motor cameră retractabilă</string>
+    <string name="popup_calibration_warning_title">Calibrare motor</string>
+    <string name="popup_calibration_warning_text">Utilizarea nenecesară a calibrării poate duce la defectare permanentă. Calibrarea motorului camerei retractabile este recomandat să fie făcută numai în cazurile în care aceasta se află în poziții greșite sau nu se mișcă corect!</string>
+
+    <!-- Popup camera strings -->
+    <string name="popup_camera_tip">Atenție</string>
+    <string name="popup_camera_takeback_failed_calibrate">Camera frontală nu se închide. Încearcă să calibrezi motorul.</string>
+    <string name="popup_camera_popup_failed_calibrate">Camera frontală nu se deschide. Încearcă să calibrezi motorul.</string>
+    <string name="popup_camera_calibrate_running">În timpul calibrării camera frontală nu poate fi utilizată.</string>
+    <string name="popup_camera_calibrate_now">Calibrare</string>
+    <string name="popup_camera_calibrate_failed">Calibrare nereușită</string>
+    <string name="popup_camera_calibrate_success">Calibrare reușită. Camera frontală poate fi utilizată.</string>
+</resources>
